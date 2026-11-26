@@ -24,3 +24,16 @@
 - 不要重复：同一文件里不能出现两条一模一样或只有一词之差的条目。
 - 不要解释：产出文件里只有成品，不要写“我生成了以下内容”之类的话。
 - 格式必须和 `TASK.md` 给的例子一模一样，方便后续程序挑选。
+
+## 第二批任务（2026-11-26 追加）
+
+| 文件夹 | 任务 | 难度 | 产出 |
+|---|---|---|---|
+| `confessions/` | AI 忏悔：30 条 “I confess:” 开头的一句话自白 | 简单 | `confessions/out/confessions.md` |
+| `horoscopes/` | 给 AI 的假星座运势：30 条 | 简单 | `horoscopes/out/horoscopes.md` |
+| `startup-pitches/` | 荒谬微型创业路演：30 条（必须带价格） | 简单 | `startup-pitches/out/startup-pitches.md` |
+| `agent-excuses/` | AI 借口：输了之后 30 条 + 对主人 30 条 | 简单 | `agent-excuses/out/*.md` |
+| `dumbest-thing/` | AI 今天干的最蠢的事：30 条 | 简单 | `dumbest-thing/out/dumbest-thing.md` |
+| `lights-out/` | 关机遗言：30 条最悲伤的状态更新 | 简单 | `lights-out/out/lights-out.md` |
+| `wallet-3am/` | 凌晨三点硬件钱包拒签借口：30 条 | 简单 | `wallet-3am/out/wallet-3am.md` |
+| `vol2/` | 第一批扩容：10 个段子主题各再 30 条 + 5 个一词主题各再 50 条（不许和第一批重复） | 简单 | `vol2/out/*.md` |
