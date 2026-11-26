@@ -37,3 +37,20 @@
 | `lights-out/` | 关机遗言：30 条最悲伤的状态更新 | 简单 | `lights-out/out/lights-out.md` |
 | `wallet-3am/` | 凌晨三点硬件钱包拒签借口：30 条 | 简单 | `wallet-3am/out/wallet-3am.md` |
 | `vol2/` | 第一批扩容：10 个段子主题各再 30 条 + 5 个一词主题各再 50 条（不许和第一批重复） | 简单 | `vol2/out/*.md` |
+
+## 第三批（量大管饱，约 1,370 条）
+
+| 任务包 | 内容 | 数量 |
+|---|---|---|
+| `jokes/vol3/`（8 个 TASK 文件） | 第一批 8 个笑话主题各再写 50 条（先读 vol1+vol2，零重复） | 400 |
+| `one-word/vol3/`（5 个 TASK 文件） | 5 个一词主题各再写 80 条（先读 vol1+vol2，零重复） | 400 |
+| `commit-messages/` | 搞笑 git 提交信息 | 80 |
+| `error-messages/` | 搞笑报错信息 | 80 |
+| `meeting-excuses/` | 开会迟到/早退借口 | 60 |
+| `apologies/` | AI 式道歉（Sorry, 开头） | 60 |
+| `how-are-you/` | AI 回答 "How are you?" | 60 |
+| `app-notifications/` | 凌晨三点的 App 推送 | 60 |
+| `one-star-essentials/` | 12 个指定对象各 5 条一星差评 | 60 |
+| `six-word-stories/` | 六词故事（正好 6 个词） | 50 |
+
+每个任务文件夹里的 TASK.md 写明了格式和自查清单，照着做即可。全部跑完后 commit + push，回主聊天说一声「跑完了」。
